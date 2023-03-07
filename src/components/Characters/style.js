@@ -1,5 +1,4 @@
-import styled from 'styled-components';
-
+import styled from "styled-components";
 
 export const Main = styled.section`
   padding: 2rem;
@@ -15,5 +14,5 @@ export const Container = styled.div`
 export const StatusText = styled.h1`
   margin-top: 2rem;
   text-align: center;
-  color: #FFF;
+  color: #fff;
 `;
