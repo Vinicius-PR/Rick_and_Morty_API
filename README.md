@@ -4,7 +4,7 @@ Hi. This is a simple project. It uses react query to fetch data about Rick and M
 
 ## Inside it
 
-The application have only one page separated in components. Start with a simple title and subtitle. Then, it has a pagination components very friendly and useful to implement in futures projects. After that, there is a list of the characters with its details, like where was seen, name, status and a picture.
+The application have only one page separated in components. Starts with a simple title and subtitle. Also, it has a very friendly pagination component that is useful to implement in futures projects. After that, there is a list of the characters with its details, like where was seen, name, status and a picture.
 
 The application is responsive. Works perfectly on mobiles screen sizes.
 
